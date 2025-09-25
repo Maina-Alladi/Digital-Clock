@@ -1,0 +1,22 @@
+body{
+  background-image: url(assets/morning-3789236_1280.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size:cover;
+  margin:0;
+}
+ .clock-container{
+backdrop-filter: blur(2px) ;
+
+ }
+ .clock{
+ color: antiquewhite;
+ font-family: monospace;
+  font-size: 6rem;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+
+ } 
